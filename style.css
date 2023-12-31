@@ -8,5 +8,5 @@ body {
     background-image: url("background1.jpg");
     background-color: #cccccc;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 1920px 1080px;
   }
