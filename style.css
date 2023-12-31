@@ -6,7 +6,6 @@ p {
 }
 body {
     background-image: url("cinematography.jpg");
-    background-color: #cccccc;
     background-repeat: no-repeat;
-    background-size: 1920px 1080px;
+    background-size: auto;
   }
