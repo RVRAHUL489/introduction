@@ -4,3 +4,7 @@ h1 {
 p {
     color: darkblue:
 }
+body {
+    background-image: url("cinematography.jpg");
+    background-color: #cccccc;
+   }
